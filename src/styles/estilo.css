@@ -1,0 +1,60 @@
+body{
+    width: 50%;
+    
+}
+
+.perfil{
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  height: 80px;
+  overflow: hidden;
+  padding: 0;
+  width: 80px;
+  text-align: center;
+  margin: 12px;
+}
+.comentarios{
+    display: flex;
+    border: 1px solid black;
+    align-items: center;
+    width: 100%;
+}
+.sandra-img{
+    border: 6px solid yellow;
+    
+}
+.juan-img{
+    border: 6px solid red;
+}
+
+.linea{
+    display: flex;
+}
+.name{
+    font-weight: bold;
+    font-size: 18px;
+    padding-right: 12px;
+}
+.tag{
+    font-size: 14px;
+}
+.comentar{
+margin-top: 12px;
+}
+.com{
+        margin-top: auto;
+    margin-left: auto;
+    direction: rtl;
+}
+.com2{
+    direction: rtl;
+}
+.color{
+    color:  rgb(33, 179, 94);
+}
+.meme{
+   width: 80%;
+    margin-top: 12px;
+    margin-left: 40px;
+}
